@@ -1,0 +1,12 @@
+bank:
+  price:
+    initial: 10
+    multiply-by: 1.5
+  capacity:
+    initial: 32
+    multiply-by: 1.5
+  # For testing.
+  maxlvl: 10
+key:
+  lore: "&aID: %id"
+  material: "STICK"
